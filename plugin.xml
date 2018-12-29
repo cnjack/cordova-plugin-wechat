@@ -63,6 +63,8 @@
         <!-- Plugin source code -->
         <header-file src="src/ios/CDVWechat.h" />
         <source-file src="src/ios/CDVWechat.m" />
+        <header-file src="src/ios/AppDelegate+Wechat.h" />
+        <source-file src="src/ios/AppDelegate+Wechat.m" />
 
         <!-- Wechat Official -->
         <header-file src="src/ios/libs/OpenSDK1.8.0/WXApi.h" />
